@@ -42,7 +42,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos, ideas y colabo
 ## 🤝 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivanprieto1980)
-[![Correo](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ipr.prieto@accountali.com)
+[![Correo](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ipr.prieto@gmail.com)
 
 ---
 
