@@ -34,8 +34,6 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos, ideas y colabo
 
 
 ## 📈 Estadísticas de GitHub
-
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=acc-iprieto&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Ivan-PR&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
