@@ -7,7 +7,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás proyectos, ideas y colabo
 ## 🌱 Sobre mí
 
 - 🎓 Actualmente, estoy mejorando mis habilidades en **Desarrollo Full Stack**, centrándome en **TypeScript** y **Vue.js** para crear aplicaciones más eficientes y escalables.
-- 💼 Trabajo en **Accountali** como **BackEnd Developer**.
+- 💼 Buscando nuevos proyectos como **Developer**.
 - 💡 Siempre estoy buscando nuevas formas de aprender y mejorar.
 
 ## 🛠️ Tecnologías y Herramientas
